@@ -5,8 +5,7 @@
   Developed by: Amol Gade
   Computer and information science department
   University of Massachusetts Dartmouth
-  USA
- **/ 
+  USA 
  
   Development year: 2015-2016
   
