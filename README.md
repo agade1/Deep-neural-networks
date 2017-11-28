@@ -2,8 +2,7 @@
 
 /**
  * Structured Deep neural neural network for predictive analytics
- * Developed by:
- * Amol Gade
+ * Developed by: Amol Gade
  * Computer and information science department
  * University of Massachusetts Dartmouth
  * USA
@@ -32,4 +31,5 @@
  */
  
  Thesis Draft link - https://github.com/agade1/Thesis-Research-paper-s/blob/master/Master's%20Thesis%20Draft_AmolGade.pdf
+ 
  IEEE Paper link - https://github.com/agade1/Thesis-Research-paper-s/blob/master/IEEE-SCI-2017-AmolGade.pdf
