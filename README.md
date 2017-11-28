@@ -2,8 +2,11 @@
 
 /**
   Structured Deep neural neural network for predictive analytics
+  
   Developed by: Amol Gade
+  
   Computer and information science department
+  
   University of Massachusetts Dartmouth
   USA 
  
