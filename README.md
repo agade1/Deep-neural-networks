@@ -13,6 +13,7 @@
   Development year: 2015-2016
   
   Use case: House selling price prediction
+  
   ABSTRACT: With the rapid growth of global data, predictive analytics has become ever important.
   Predictive analytics can help people in many different ways including making better decisions,
   understanding market trends, and improving productivity. Conventional machine learning techniques
