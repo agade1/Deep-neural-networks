@@ -36,3 +36,5 @@
  Thesis Draft link - https://github.com/agade1/Thesis-Research-paper-s/blob/master/Master's%20Thesis%20Draft_AmolGade.pdf
  
  IEEE Paper link - https://github.com/agade1/Thesis-Research-paper-s/blob/master/IEEE-SCI-2017-AmolGade.pdf
+ 
+ Code - https://github.com/agade1/Deep-neural-networks/tree/master/StructuredDeepNeuralNetwork
